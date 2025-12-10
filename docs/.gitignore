@@ -1,0 +1,9 @@
+# 前端依赖与构建产物
+node_modules/
+.vitepress/cache/
+.vitepress/dist/
+dist/
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
