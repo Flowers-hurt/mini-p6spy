@@ -47,14 +47,3 @@ nbdist/
 !*/build/*.xml
 
 .flattened-pom.xml
-
-
-# 前端依赖与构建产物
-/docs/node_modules/
-/docs/.vitepress/cache/
-/docs/.vitepress/dist/
-/docs/dist/
-/docs/package-lock.json
-/docs/yarn.lock
-/docs/pnpm-lock.yaml
-

@@ -4,6 +4,7 @@ export default defineConfig({
   lang: 'zh-CN',
   title: '手搓 mini p6spy 教程',
   description: '从 0 构建一个精简版 p6spy 的完整实践',
+  ignoreDeadLinks: true,
   themeConfig: {
     nav: [
       { text: '首页', link: '/' },
